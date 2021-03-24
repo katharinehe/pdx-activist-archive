@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "An academic paper we are working on but doesn't have an issue number or page numbers yet"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
