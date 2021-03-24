@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Another sort of document but this one has some info hover features and less links below it"
 authors:
 - admin
 - Robert Ford
