@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kate Ellenberer
+title: Kate Ellenberger
 
 # Is this the primary user of the site?
 superuser: true
