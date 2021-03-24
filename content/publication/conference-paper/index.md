@@ -1,8 +1,8 @@
 ---
-title: "An example conference paper"
+title: "An example document"
 authors:
 - admin
-- Robert Ford
+- Name Not On Our People Page
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
