@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Research Comrades Website Template"
+title: "Research Comrades Website"
 subtitle: ""
 hero_media: welcome.jpg
 design:
