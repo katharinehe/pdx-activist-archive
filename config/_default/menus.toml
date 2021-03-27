@@ -9,26 +9,31 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
-  url = "post"
-  weight = 20
-
-[[main]]
   name = "People"
   url = "people"
-  weight = 30
-
-[[main]]
-  name = "Events"
-  url = "event"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Public Documents Archive"
   url = "publication"
+  weight = 30
+  
+ [[main]]
+  name = "Glossary of Terms"
+  url = "glossary/"
+  weight = 40
+  
+[[main]]
+  name = "News"
+  url = "post"
   weight = 50
+  
+[[main]]
+  name = "Events"
+  url = "event"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 60
+  weight = 70
